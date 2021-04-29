@@ -64,4 +64,6 @@ use_preset_vocabulary: false
 
 ---
 
-延伸：[Rime 鼠须管朙月拼音·简化字配置方案](https://github.com/maomiui/rime)
+### 延伸
+* [搜狗词库大全](https://github.com/maomiui/sogou-dict)
+* [Rime 鼠须管配置方案](https://github.com/maomiui/rime)
