@@ -30,11 +30,11 @@
 
 点击**是**保存在本地。
 
-![07](https://raw.githubusercontent.com/liuour/tuchuang/master/pic/07.png)
+![](https://raw.githubusercontent.com/liuour/tuchuang/master/pic/07.png)
 
 保存时自定义命名，生成一个 `.txt` 文件。
 
-![09](https://raw.githubusercontent.com/liuour/tuchuang/master/pic/09.png)
+![](https://raw.githubusercontent.com/liuour/tuchuang/master/pic/09.png)
 
 打开文件，将下面代码粘贴在文本最上方（`...` 下面空一行），修改词库名（以 sogou 为示例）并保存。
 
@@ -50,7 +50,7 @@ use_preset_vocabulary: false
 
 ```
 
-![2021-03-31-01.03.24.@2x](https://raw.githubusercontent.com/liuour/tuchuang/master/pic/2021-03-31-01.03.24.@2x.png)
+![](https://raw.githubusercontent.com/liuour/tuchuang/master/pic/2021-03-31-01.03.24.@2x.png)
 
 将文件重命名。
 
@@ -60,10 +60,4 @@ use_preset_vocabulary: false
 
 > 注意：名称一定要和文件内 `name` 相同。
 
-![2021-03-31-01.04.41.@2x](https://raw.githubusercontent.com/liuour/tuchuang/master/pic/2021-03-31-01.04.41.@2x.png)
-
----
-
-### 延伸
-* [搜狗词库大全](https://github.com/maomiui/sogou-dict)
-* [Rime 鼠须管配置方案](https://github.com/maomiui/rime)
+![](https://raw.githubusercontent.com/liuour/tuchuang/master/pic/2021-03-31-01.04.41.@2x.png)
